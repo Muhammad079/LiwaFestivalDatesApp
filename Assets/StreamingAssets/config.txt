@@ -1,0 +1,1 @@
+InactivityDuration=12
